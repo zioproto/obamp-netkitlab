@@ -1,0 +1,5 @@
+ifconfig eth0 172.16.100.3 up
+ifconfig eth1 172.16.100.4 up
+ip -6 addr add fec0:2::2/64 dev eth0 
+ip -6 addr add fec0:3::2/64 dev eth1 
+
