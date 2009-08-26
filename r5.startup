@@ -1,2 +1,2 @@
 ifconfig eth0 172.16.100.5 up 
-ifconfig eth0 172.16.100.55 up 
+ifconfig eth1 172.16.100.55 up 
