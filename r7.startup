@@ -1,0 +1,1 @@
+ifconfig eth0 172.16.100.7 up
